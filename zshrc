@@ -43,4 +43,4 @@ export LC_ALL=en_US.UTF-8
 export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -a"
 export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
 
-ZSH_DISABLE_COMPFIX = TRUE
+ZSH_DISABLE_COMPFIX = TRUEexport BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
